@@ -1,0 +1,1 @@
+trigger insert on giudice e delete on giudice 
