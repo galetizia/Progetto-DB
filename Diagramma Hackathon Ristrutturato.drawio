@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" version="29.2.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" scale="1" border="20" version="29.3.6">
   <diagram name="Pagina-1" id="FT3f5iym3vIKs1HkJm_E">
-    <mxGraphModel dx="2991" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,9 +208,9 @@
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYMotZfGEbCGSiCxkWi5-64" connectable="0" parent="NYMotZfGEbCGSiCxkWi5-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ISCRIVE" vertex="1">
+        <mxCell id="NYMotZfGEbCGSiCxkWi5-64" connectable="0" parent="NYMotZfGEbCGSiCxkWi5-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SI_ISCRIVE" vertex="1">
           <mxGeometry relative="1" x="-0.3552" y="-1" as="geometry">
-            <mxPoint x="-448" y="19" as="offset" />
+            <mxPoint x="-458" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NYMotZfGEbCGSiCxkWi5-65" connectable="0" parent="NYMotZfGEbCGSiCxkWi5-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0..*" vertex="1">
@@ -225,10 +225,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NYMotZfGEbCGSiCxkWi5-67" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="COMMENTO" vertex="1">
-          <mxGeometry height="52" width="160" x="60" y="494" as="geometry" />
+          <mxGeometry height="52" width="190" x="60" y="494" as="geometry" />
         </mxCell>
-        <mxCell id="NYMotZfGEbCGSiCxkWi5-68" parent="NYMotZfGEbCGSiCxkWi5-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Descrizione: Varchar[300]" vertex="1">
-          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        <mxCell id="NYMotZfGEbCGSiCxkWi5-68" parent="NYMotZfGEbCGSiCxkWi5-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Testo_Commento: Varchar[300]" vertex="1">
+          <mxGeometry height="26" width="190" y="26" as="geometry" />
         </mxCell>
         <mxCell id="NYMotZfGEbCGSiCxkWi5-69" edge="1" parent="1" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NYMotZfGEbCGSiCxkWi5-67">
           <mxGeometry relative="1" as="geometry">
@@ -247,8 +247,8 @@
             <mxPoint x="-350" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYMotZfGEbCGSiCxkWi5-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COMPONE" vertex="1">
-          <mxGeometry height="30" width="60" x="-510" y="585" as="geometry" />
+        <mxCell id="NYMotZfGEbCGSiCxkWi5-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APPARTIENE" vertex="1">
+          <mxGeometry height="30" width="60" x="-500" y="585" as="geometry" />
         </mxCell>
         <mxCell id="NYMotZfGEbCGSiCxkWi5-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0..*" vertex="1">
           <mxGeometry height="30" width="60" x="-90" y="960" as="geometry" />
