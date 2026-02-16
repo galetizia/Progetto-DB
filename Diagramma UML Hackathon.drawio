@@ -225,8 +225,8 @@
             <mxPoint x="30" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="suTjhFJV9JPYpgtJyESY-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="{Totale, esclusiva}" vertex="1">
-          <mxGeometry height="30" width="120" x="40" y="320" as="geometry" />
+        <mxCell id="suTjhFJV9JPYpgtJyESY-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="{Parziale, esclusiva}" vertex="1">
+          <mxGeometry height="30" width="130" x="35" y="320" as="geometry" />
         </mxCell>
         <mxCell id="suTjhFJV9JPYpgtJyESY-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
