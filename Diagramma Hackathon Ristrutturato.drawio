@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" scale="1" border="20" version="29.4.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" scale="1" border="20" version="29.4.0">
   <diagram name="Pagina-1" id="FT3f5iym3vIKs1HkJm_E">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3047" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="NYMotZfGEbCGSiCxkWi5-40" parent="NYMotZfGEbCGSiCxkWi5-36" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Percorso_File: Varchar[255]" vertex="1">
           <mxGeometry height="26" width="200" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="UijaeasplCdaD3B_frqI-1" parent="NYMotZfGEbCGSiCxkWi5-36" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Data: Date" vertex="1">
+        <mxCell id="UijaeasplCdaD3B_frqI-1" parent="NYMotZfGEbCGSiCxkWi5-36" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Data_caricamento: Date" vertex="1">
           <mxGeometry height="26" width="200" y="130" as="geometry" />
         </mxCell>
         <mxCell id="4X6s9N8zySUMAqu0WCfZ-1" parent="NYMotZfGEbCGSiCxkWi5-36" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+IsUltimoAggiornamento: Boolean" vertex="1">

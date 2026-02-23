@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Pagina-1" id="ZTgNWmhBAVndi8c3lIXf">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3206" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="xMlAJpmwG49vaeNFLqt6-7" parent="fo-nC8CXGr5SDuvIX5sd-37" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Percorso_File: Varchar[255]" vertex="1">
           <mxGeometry height="26" width="195" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="K8AD6pNtdjx3XpjTfBYW-2" parent="fo-nC8CXGr5SDuvIX5sd-37" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Data: Date" vertex="1">
+        <mxCell id="K8AD6pNtdjx3XpjTfBYW-2" parent="fo-nC8CXGr5SDuvIX5sd-37" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+Data_caricamento: Date" vertex="1">
           <mxGeometry height="26" width="195" y="104" as="geometry" />
         </mxCell>
         <mxCell id="c3oCcPsgq7mrnPw8W3pO-1" parent="fo-nC8CXGr5SDuvIX5sd-37" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+IsUltimoAggiornamento: Boolean" vertex="1">
@@ -174,7 +174,7 @@
         <mxCell id="fo-nC8CXGr5SDuvIX5sd-79" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1..*" vertex="1">
           <mxGeometry height="30" width="40" x="-360" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="fo-nC8CXGr5SDuvIX5sd-81" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="1..*" vertex="1">
+        <mxCell id="fo-nC8CXGr5SDuvIX5sd-81" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="0..*" vertex="1">
           <mxGeometry height="30" width="40" x="60" y="390" as="geometry" />
         </mxCell>
         <mxCell id="fo-nC8CXGr5SDuvIX5sd-82" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="0..*" vertex="1">
